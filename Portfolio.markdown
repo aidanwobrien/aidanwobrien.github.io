@@ -13,9 +13,9 @@ image: /assets/images/ormdem.jpeg
 
 # Mapping projects:
  * Mapping wetlands and wetland complexes in the Township of King
-![township of king wetlands]({% link/assets/images/wetlands.jpeg %}){: width="300" height="300"}![township of king wetlands]({% link/assets/images/complexes.jpeg %}){: width="400" height="300"}
+ ![township of king wetlands]({% link/assets/images/wetlands.jpeg %}){: width="300" height="300"}![township of king wetlands]({% link/assets/images/complexes.jpeg %}){: width="400" height="300"}
  * [Visualizing urban sprawl using Google Earth Engine](https://code.earthengine.google.com/13d98192ebebfe0344e25d18dc18b2a9)
-![vaughan sprawl]({% link/assets/images/Vaughan_Sprawl.gif %}){: width="300" height="300"}
+ ![vaughan sprawl]({% link/assets/images/Vaughan_Sprawl.gif %}){: width="300" height="300"}
  * [Web-mapping official plans of the Oak Ridges Moraine]({% link/ormwebmap.html %})
  * Mapping the topography of the Oak Ridges Moraine
  
