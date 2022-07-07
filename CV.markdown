@@ -29,7 +29,7 @@ _I am a highly knowledgeable, skilled and motivated Conservation GIS Coordinator
 * Land Securement and Stewardship
 * Environmental Policy and Law in Canada
 * Data Governance Management and GIS Development
-* RStudio, JavaScript, HTML, SQL + more.
+* RStudio, GEE, JavaScript, HTML, SQL + more.
 
 ![minesing wetlands]({{ page.image | relative_url }}){: width="250" height="250"}
 
