@@ -6,9 +6,11 @@ image: /assets/images/about.jpg
 
 ![headshot]({{ page.image | relative_url }}){: width="250" height="250"}
 
-To date, I have lead in the securement and stewardship of thousands of acres of ecologically critical properties on the land now known as Southern Ontario. I have removed several acres of invasive species, planted thousands of native plants, shrubs and trees and produced hundreds of print and web-map products.
+To date, I have lead in the securement and stewardship of hundreds of acres of ecologically critical properties on the land now known as Southern Ontario. I have removed several acres of invasive species, planted thousands of native plants, shrubs and trees and produced hundreds of print and web-map products.
 
 I have an extensive technical background in conservation biology, GIS, spatial analysis, land securement and stewardship. Currently I work for the [Oak Ridges Moraine Land Trust](https://www.oakridgesmoraine.org/) coordinating land securement projects across the Greenbelt and Oak Ridges Moraine.
+
+I am versed in making maps, graphs and visualizations using RStudio (sf, tidyverse, shiny), ArcGIS Pro/Online, QGIS, Git/Github, HTML/CSS/JavaScript, Python, SQL and more.
 
 I recently finished my Masters in the [Department of Geography, Environment and Geomatics](https://geg.uoguelph.ca/) at the University of Guelph. I studied the adoption and use of information technologies to inform conservation decision-making at several scales. Specifically, I explored opportunities and barriers surrounding the adoption of precision conservation technologies (particularly profit and soil mapping) within the agricultural sector of Southern Ontario by conducting semi-structured interviews, Q and Map Surveys. You can access my thesis here: ["Evaluating Opportunities and Barriers to Soil Organic Carbon Decision-Support Systems: Integrating salience, credibility and legitimacy"](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26394)
 
