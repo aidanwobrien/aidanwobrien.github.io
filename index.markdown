@@ -5,7 +5,7 @@ image: /assets/images/about.jpg
 ---
 
 <!-- ![headshot]({{ page.image | relative_url }}){: width="250" height="250"} -->
-<img align="left" src="/assets/images/about.jpg" alt="Tree Planting" weidth = "250" height="250">
+<img align="left" src="/assets/images/about.jpg" alt="Tree Planting" weidth = "250" height="250" padding-right = "10px">
 
 __Hello!__ I am a geographer and lifelong learner fascinated by the use and impact of data technologies on environmental decision-making. I am privileged and motivated to work on behalf of (and for the benefit of) Planet Earth. 
 
