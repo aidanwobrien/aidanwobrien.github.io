@@ -11,6 +11,7 @@ _I am a highly knowledgeable, skilled and motivated Conservation GIS Coordinator
 
 ## Experience
 
+* GIS / Database Technician - [Forests Ontario](https://forestsontario.ca/)
 * Land Securement Coordinator - [Oak Ridges Moraine Land Trust](https://oakridgesmoraine.org/)
 * Conservation Technician - [Nature Conservancy of Canada](https://www.natureconservancy.ca/en/where-we-work/ontario/){:target="_blank"}
 * Natural Heritage Assistant - [Ontario Heritage Trust](https://www.heritagetrust.on.ca/en/index.php/property-types/natural-heritage){:target="_blank"}
