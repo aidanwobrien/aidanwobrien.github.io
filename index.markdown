@@ -7,7 +7,7 @@ image: /assets/images/about.jpg
 <!-- ![headshot]({{ page.image | relative_url }}){: width="250" height="250"} -->
 <img align="left" src="/assets/images/about.jpg" alt="Tree Planting">
 
-Hello! I am a geographer and lifelong learner fascinated by the use and impact of data technologies on environmental decision-making. I am privileged and motivated to work on behalf of (and for the benefit of) Planet Earth. 
+__Hello!__ I am a geographer and lifelong learner fascinated by the use and impact of data technologies on environmental decision-making. I am privileged and motivated to work on behalf of (and for the benefit of) Planet Earth. 
 
 To date, I have lead in the securement and stewardship of hundreds of acres of ecologically critical properties on the land now known as Southern Ontario. I have an extensive technical background in conservation biology, GIS, spatial analysis, land securement and stewardship. I analyze spatial data and design maps, graphs, visualizations and other tools and data pipelines to support environmental decision-making and nature-based climate solutions. I have also coordinated the removal of several acres of invasive species, the planting of thousands of native plants, shrubs and trees and the design of hundreds of print and web-map products.
 
