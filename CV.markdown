@@ -11,17 +11,17 @@ _I am a highly knowledgeable, skilled and motivated Conservation GIS Coordinator
 
 ## Experience
 
-* GIS / Database Technician - [Forests Ontario](https://forestsontario.ca/)
-* Land Securement Coordinator - [Oak Ridges Moraine Land Trust](https://oakridgesmoraine.org/)
+* GIS / Database Technician - [Forests Ontario](https://forestsontario.ca/){:target="_blank"}
+* Land Securement Coordinator - [Oak Ridges Moraine Land Trust](https://oakridgesmoraine.org/){:target="_blank"}
 * Conservation Technician - [Nature Conservancy of Canada](https://www.natureconservancy.ca/en/where-we-work/ontario/){:target="_blank"}
 * Natural Heritage Assistant - [Ontario Heritage Trust](https://www.heritagetrust.on.ca/en/index.php/property-types/natural-heritage){:target="_blank"}
 * Outreach Coordinator - [Earthroots](https://www.earthroots.org/){:target="_blank"}
-* Stewardship Leader - [Ontario Parks](https://www.ontarioparks.com/en)
+* Stewardship Leader - [Ontario Parks](https://www.ontarioparks.com/en){:target="_blank"}
 
 ## Education
 
-* [MA Geography, Environment and Geomatics - University of Guelph](https://geg.uoguelph.ca/)
-* [BSc Conservation Science and Anthropology - University of Toronto](https://eeb.utoronto.ca/)
+* [MA Geography, Environment and Geomatics - University of Guelph](https://geg.uoguelph.ca/){:target="_blank"}
+* [BSc Conservation Science and Anthropology - University of Toronto](https://eeb.utoronto.ca/){:target="_blank"}
 
 ## Skills
 
